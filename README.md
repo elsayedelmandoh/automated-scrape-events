@@ -1,0 +1,1 @@
+building an automated tool to scrape events content from local websites and have them ready to be inserted in a database which can eventually be used in our mobile app (examples: Visit Qatar, ILoveQatar, Qatar Calendar, QF Website, QU Website, etc.). We plan to use the NER (Named Entity Recognition) technique and/or a Large Language Model (LLM).
